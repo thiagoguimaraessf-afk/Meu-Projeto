@@ -26,8 +26,8 @@ Sem backend/servidor por enquanto — tudo roda direto no navegador.
 
 ```
 meu-portfolio/
-├── index.html          # tela de login
-├── home.html            # página com os projetos
+├── login.html          
+├── home.html 
 ├── css/
 │   └── style.css
 ├── js/
