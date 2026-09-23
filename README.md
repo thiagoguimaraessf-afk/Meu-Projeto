@@ -8,7 +8,7 @@ Página home que lista meus projetos pessoais, com uma tela de login inicial. A 
 
 Nada implementado ainda — o projeto está na fase de planejamento.
 
-- ⬜ Tela de login (`index.html`)
+- ⬜ Tela de login (`login.html`)
 - ⬜ Página home listando os projetos (`home.html`)
 - ⬜ Estilização geral (CSS)
 - ⬜ Validação de login em JS
