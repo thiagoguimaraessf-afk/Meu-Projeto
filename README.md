@@ -40,7 +40,7 @@ meu-portfolio/
 ## ▶️ Como rodar o projeto
 
 1. Baixe ou clone a pasta do projeto
-2. Abra o arquivo `index.html` diretamente no navegador (duplo clique ou arraste pro navegador)
+2. Abra o arquivo `login.html` diretamente no navegador (duplo clique ou arraste pro navegador)
 3. Não precisa instalar nada — é só HTML, CSS e JS puro
 
 ## 🔐 Como funciona o login
@@ -48,7 +48,7 @@ meu-portfolio/
 ⚠️ **Importante:** esse login é apenas simulado no front-end, para fins de estudo. Ele **não é seguro** e não deve ser usado com senhas ou dados reais, porque qualquer validação feita só em JavaScript fica visível no código-fonte da página.
 
 A ideia planejada é:
-- O usuário preenche o formulário em `index.html`
+- O usuário preenche o formulário em `login.html`
 - O `login.js` valida os dados digitados
 - Se validar corretamente, salva algo no `localStorage` (ex: um "usuário logado") e redireciona para `home.html`
 - A `home.html` pode checar esse valor no `localStorage` pra decidir se mostra o conteúdo ou manda de volta pro login
@@ -62,7 +62,7 @@ Direto do quadro Trello (*Meu Projeto*), lista **Backlog / Ideias**:
 - [ ] Criar estrutura de pastas do projeto
 - [ ] Montar `home.html` com projetos fake (2-3 cards)
 - [ ] Estilizar `home.html` com CSS (grid/flexbox)
-- [ ] Criar `index.html` com formulário de login
+- [ ] Criar `login.html` com formulário de login
 - [ ] Estilizar formulário de login
 - [ ] JS: validar login e redirecionar para `home.html`
 - [ ] JS: salvar/carregar projetos com `localStorage`
